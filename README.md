@@ -9,6 +9,6 @@
 
 ##
 <br>
+
 ![alt text](https://github.com/IanevskiAleksandr/repurposedrugs/blob/main/snap_rd.png)
 
-<br><br>
