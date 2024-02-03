@@ -6,6 +6,6 @@
 ##
 <br><br>
 
-![alt text](https://github.com/IanevskiAleksandr/sc-type/blob/master/ScTypePlan.png)
+![alt text](https://github.com/IanevskiAleksandr/repurposedrugs/blob/main/snap_rd.png)
 
 <br><br>
