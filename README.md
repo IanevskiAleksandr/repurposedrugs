@@ -5,7 +5,8 @@
 
 ##
 <br>
-The web application is developed using PHP version 7 for server-side scripting and d3.js version 6 for data visualization on the client side.
+<p>The web application is developed using PHP version 7 for server-side scripting and d3.js version 6 for data visualization on the client side.</p>
+
 ##
 <br>
 ![alt text](https://github.com/IanevskiAleksandr/repurposedrugs/blob/main/snap_rd.png)
